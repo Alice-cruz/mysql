@@ -1,2 +1,3 @@
 *.sql linguagens=sql
 
+SELECT * FROM tb_autor;
