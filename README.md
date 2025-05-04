@@ -1,5 +1,6 @@
 # 📘 MySQL - Resumos do curso
 ## 📁 Criação do Banco de Dados
+MySQL é um banco de dados relacional, ou seja, sua relação de tabelas se da por chave de valor em comum - ID, SKU etc.
 Neste projeto, criamos o banco de dados `livraria` utilizando o comando abaixo:
 ```sql
 CREATE DATABASE livraria;
