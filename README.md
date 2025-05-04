@@ -5,7 +5,7 @@ Neste projeto, criamos o banco de dados `livraria` utilizando o comando abaixo:
 CREATE DATABASE livraria;
 ```
 
-O banco será alimentado com as seguintes tabelas:
+O banco será alimentado com as seguintes tabelas na pasta `criando_BD_mysql`
 - tb_livros
 - tb_autor
 - tb_editora
